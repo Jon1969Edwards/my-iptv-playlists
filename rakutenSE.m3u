@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/se.xml"
 #EXTINF:-1 tvg-chno=336 tvg-id="fuel-tv-new" tvg-name="FUEL TV" group-title="sport",FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-chno=338 tvg-id="billiards-tv" tvg-name="World Billiards TV" group-title="sport",World Billiards TV
